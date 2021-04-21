@@ -1,0 +1,11 @@
+root - INFO - Program Started
+root - WARNING - import statement not used
+root - ERROR - NameError raised
+root - INFO - Program Started
+root - WARNING - import statement not used
+root - ERROR - NameError raised
+__main__ - INFO - Test Output
+root - INFO - Program Started
+__main__ - INFO - Test Output
+root - INFO - Program Started
+__main__ - INFO - Test Output
